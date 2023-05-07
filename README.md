@@ -1,1 +1,2 @@
 # ilusetokaiba.github.io
+<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
